@@ -1,0 +1,29 @@
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100%;
+    height: auto;
+
+    background-color: blanchedalmond;
+}
+
+h2{
+    font-family: Prata;
+    font-weight: 400;
+    font-size: 30px;
+    color: #333333;
+}
+
+.socials{
+    width: 100%;
+    display: table;
+    table-layout: auto;
+    padding: 5%;
+}
+
+div.socials span {
+    display: table-cell;
+    text-align: center;
+}
