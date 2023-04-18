@@ -79,7 +79,7 @@ export const AboutPage = () => {
           backgroundColor="beige">
           <Grid item sm={12} md={12} lg={12} xl={12}>
             <Typography variant="h1" align="center" color="black">
-              Nuestra familia
+              Nuestra familia otaku kawai
             </Typography>
           </Grid>
           {
